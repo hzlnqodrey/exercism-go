@@ -1,0 +1,2 @@
+# exercism-go
+exercise go
